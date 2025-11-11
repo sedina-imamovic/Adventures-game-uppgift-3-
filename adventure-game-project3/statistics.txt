@@ -1,0 +1,5 @@
+ sedina;0
+sedina;0
+sedina;0
+anna;220
+anna;0
